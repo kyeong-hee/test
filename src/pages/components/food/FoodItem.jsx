@@ -1,7 +1,6 @@
 
 export default function FoodItem({title, subtitle, text, img}){
 
-
     return(
         <div style={{width:'250px'}}>
             <div className="d-block overflow-hidden w-100" style={{height:'144px', borderRadius:'4px'}}>
